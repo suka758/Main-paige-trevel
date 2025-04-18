@@ -1,0 +1,42 @@
+body {
+    background-color: #35D699;
+}
+.icon {
+    width: 85px;
+}
+header h1 {
+    color: #FF9500;
+    text-shadow: 1px 0 1px #000, 
+                0 1px 1px #000, 
+                -1px 0 1px #000, 
+                0 -1px 1px #000;
+}
+main {
+    background-color: #679FD2;
+    margin: 20px;
+    padding: 20px;
+}
+main p {
+    font-family: sans-serif;
+    background-color: #fff;
+    padding: 20px;
+}
+main img{
+    width: 105px;
+}
+.BigText {
+    color: #FF0000;
+    font-size: 30px;
+}
+.Booten {
+    text-align: right;
+}
+footer{
+    background-color: #FF7B40;
+}
+footer img{
+    width: 100;
+}
+div {
+    background-color: #fff;
+}
